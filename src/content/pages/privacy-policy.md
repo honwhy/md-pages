@@ -4,26 +4,20 @@ description: "this is meta description"
 draft: false
 ---
 
-#### Responsibility of Contributors
+欢迎您使用微信公众号图文创作利器——Markdown编辑器+多平台图片托管服务（以下简称“本服务”）。我们深知个人信息的重要性，因此特此制定本隐私协议，旨在说明我们在您使用本服务过程中如何收集、使用、存储及保护您的个人信息。请在使用本服务前仔细阅读以下内容：
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+#### 信息收集 (Information Collection)
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+1. 必要信息 (Necessary Information)：为了提供服务，我们需要您将图床账号密钥信息录入到本服务，以便接入各类图床图片托管服务。在此过程中，我们将严格按照上传图片功能最少需要的API接口进行请求，您的账号密钥只会保留到本地，不会上传到远程服务。
 
-#### Gathering of Personal Information
+2. 图片托管信息 (Image Hosting Information)：当您通过本服务上传图片至官方微信公众号或第三方图片托管平台时，我们会处理图片的上传请求，但图片的具体内容将直接上传至所选平台，我们不会保存或分析图片内容。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+#### 信息安全 (Information Security)
 
-#### Protection of Personal- Information
+1. 数据加密 (Data Encryption)：我们根据图床要求的接口安全措施进行处理，包括数据传输加密，确保您的数据安全。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+2. 第三方合作 (Third-party Cooperation)：对于接入的第三方服务（如官方微信公众号图片托管服务），我们遵循其隐私政策与条款，不额外存储或分享您的数据。
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+#### 联系我们 (Contact Us)
 
-#### Privacy Policy Changes
-
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification.
+如果您对本隐私协议有任何疑问、建议或投诉，请通过[honwhy.wang@gmail.com]与我们联系。
