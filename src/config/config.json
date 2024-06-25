@@ -18,9 +18,9 @@
   },
 
   "nav_button": {
-    "enable": false,
-    "label": "Get Started",
-    "link": "/contact"
+    "enable": true,
+    "label": "Github",
+    "link": "https://github.com/honwhy/md"
   },
 
   "params": {
