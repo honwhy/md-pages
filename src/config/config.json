@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Bigspring Light Astro",
-    "base_url": "https://bigspring-light-astro.vercel.app",
+    "base_url": "https://mpmd.pages.dev",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
@@ -18,7 +18,7 @@
   },
 
   "nav_button": {
-    "enable": true,
+    "enable": false,
     "label": "Get Started",
     "link": "/contact"
   },
@@ -26,7 +26,7 @@
   "params": {
     "contact_form_action": "",
     "tag_manager_id": "",
-    "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
+    "footer_content": "利用官方微信公众号图片托管服务免费存储图片，确保高效实惠的图文创作体验。",
     "copyright": "Designed and Developed By [Themefisher](https://themefisher.com/)"
   },
 

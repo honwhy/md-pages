@@ -29,7 +29,12 @@ const { banner, feature, services, workflow, call_to_action } = homepage.data;
               </a>
             )
           }
-
+            <a class="btn btn-primary mt-4" href='https://chromewebstore.google.com/detail/cckggnbnimdbbpmdinkkgbbncopbloob'>
+              Chrome
+            </a>
+            <a class="btn btn-primary mt-4" href='https://addons.mozilla.org/en-US/firefox/addon/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%96%87%E7%AB%A0%E7%BC%96%E8%BE%91%E5%99%A8/'>
+              Firefox
+            </a>
           {
             banner?.image && (
               <Image
@@ -47,7 +52,7 @@ const { banner, feature, services, workflow, call_to_action } = homepage.data;
   </section>
 
   <!-- Features -->
-  <section class="section bg-theme-light">
+  <section class="section bg-theme-light" style="display: none;">
     <div class="container">
       <div class="text-center">
         <h2>{markdownify(feature!.title)}</h2>
@@ -88,7 +93,7 @@ const { banner, feature, services, workflow, call_to_action } = homepage.data;
     services!.map((service: any, index: number) => {
       const isOdd = index % 2 > 0;
       return (
-        <section class={`section ${isOdd && "bg-theme-light"}`}>
+        <section class={`section ${!isOdd && "bg-theme-light"}`}>
           <div class="container">
             <div class="items-center gap-8 md:grid md:grid-cols-2">
               <div class={`service-carousel ${!isOdd && "md:order-2"}`}>
@@ -173,7 +178,7 @@ const { banner, feature, services, workflow, call_to_action } = homepage.data;
   <!-- ./End service -->
 
   <!-- Workflow -->
-  <section class="section pb-0">
+  <section class="section pb-0" style="display: none;">
     <div class="mb-8 text-center">
       <h2
         class="mx-auto max-w-[400px] font-bold leading-[44px]"
@@ -190,5 +195,5 @@ const { banner, feature, services, workflow, call_to_action } = homepage.data;
   </section>
 
   <!-- Call to Action -->
-  <Cta cta={call_to_action} />
+  <!-- <Cta cta={call_to_action} /> -->
 </Base>
