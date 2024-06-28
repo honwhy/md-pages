@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Bigspring Light Astro",
+    "title": "微信公众号文章Markdown 编辑器",
     "base_url": "https://mpmd.pages.dev",
     "base_path": "/",
     "trailing_slash": false,

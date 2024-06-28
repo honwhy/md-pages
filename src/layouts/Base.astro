@@ -8,6 +8,7 @@ import Header from "@/partials/Header.astro";
 import "@/styles/main.scss";
 import { AstroFont } from "astro-font";
 import { ViewTransitions } from "astro:transitions";
+import Lightbox from '@julian_cataldo/astro-lightbox/Lightbox.astro';
 
 // font families
 const pf = theme.fonts.font_family.primary;
@@ -153,6 +154,7 @@ const { title, meta_title, description, image, noindex, canonical } =
       }`}
     />
     <meta name="twitter:card" content="summary_large_image" />
+    <Lightbox />
   </head>
   <body>
     <TwSizeIndicator />
