@@ -35,3 +35,8 @@ draft: false
 图片内容是保存到微信公众号后台的素材库默认分组的，
 
 <img src='/images/640-3.webp' />
+
+#### 联系作者
+
+插件作者公众号：哪里不会点哪里
+<img src='/images/qrcode_mp.png' />
