@@ -31,8 +31,8 @@
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "Honwhy Wang",
     "meta_image": "/images/og-image.png",
-    "meta_description": "astro boilerplate"
+    "meta_description": "集成微信公众号图片素材库的公众号文章Markdown 编辑器插件"
   }
 }
