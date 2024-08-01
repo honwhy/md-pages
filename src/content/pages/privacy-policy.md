@@ -1,6 +1,6 @@
 ---
 title: "Privacy"
-description: "this is meta description"
+description: "隐私协议"
 draft: false
 ---
 
