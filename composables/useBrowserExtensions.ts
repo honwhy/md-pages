@@ -13,7 +13,7 @@ export const useBrowserExtensions = () => {
   const fetchInstallCounts = async () => {
     try {
       // 这里使用模拟数据，实际项目中应该从后端API获取
-      chromeInstalls.value = 710
+      chromeInstalls.value = 730
       edgeInstalls.value = 1000
       firefoxInstalls.value = 60
     } catch (error) {
