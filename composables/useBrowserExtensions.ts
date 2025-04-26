@@ -15,7 +15,7 @@ export const useBrowserExtensions = () => {
       // 这里使用模拟数据，实际项目中应该从后端API获取
       chromeInstalls.value = 750
       edgeInstalls.value = 1000
-      firefoxInstalls.value = 60
+      firefoxInstalls.value = 70
     } catch (error) {
       console.error('获取插件安装数据失败:', error)
     }
